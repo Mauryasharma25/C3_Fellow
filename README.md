@@ -7,7 +7,8 @@
 4. Party
 4. Bat
 5. Pet
-6. Exit
+6. exit
+7. pen
 
 ## Food
 1. Dosa
