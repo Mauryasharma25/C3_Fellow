@@ -8,3 +8,9 @@
 4. Bat
 5. Pet
 6. Exit
+
+## Food
+1. Dosa
+2. pizza
+3. shahi paneer 
+4. chole bathure
